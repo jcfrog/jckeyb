@@ -8,7 +8,7 @@ Peut aussi servir pour faire des copies d'écrans ou des screencast de saisies c
 
 https://adn56.net/jckeyb/
 
-# License
+# Licence
 
 Licence [Creative Commons Attribution](https://en.wikipedia.org/wiki/fr:Creative_Commons) – [Partage dans les Mêmes Conditions 3.0 (non transposée)](https://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
 
