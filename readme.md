@@ -10,7 +10,7 @@ https://adn56.net/jckeyb/
 
 # License
 
-licence Creative Commons Attribution – Partage dans les Mêmes Conditions 3.0 (non transposée). 
+Licence [Creative Commons Attribution](https://en.wikipedia.org/wiki/fr:Creative_Commons) – [Partage dans les Mêmes Conditions 3.0 (non transposée)](https://creativecommons.org/licenses/by-sa/3.0/deed.fr). 
 
 Fichier svg du clavier forké depuis cette ressource wikipedia : https://fr.wikipedia.org/wiki/Fichier:Azerty_fr.svg
 
