@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clavier Azerty</title>
+    <script src="xtras/jquery.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div id="ctrlpanel"></div>
+    <div style="margin: 100px auto;width:90%">
+        <div>
+            <textarea id="myInput" style="font-size: 30px;width:100%"></textarea>
+        </div>
+        <object id="svg-mouse" style="display:inline-block" data="layouts/mouse.svg" type="image/svg+xml"
+            width="9%"></object>
+        <object id="svg-keyboard" style="display:inline-block" data="layouts/Azerty_fr_flat.svg" type="image/svg+xml"
+            width="90%"></object>
+    </div>
+    <script>
+        // https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code/code_values
+        // svg keyboard resource forked from https://fr.wikipedia.org/wiki/Fichier:Azerty_fr.svg        
+
+        var keyb = {
+
+            "Escape": "K_1a",
+            "F1": "K_1b",
+            "F2": "K_1c",
+            "F3": "K_1d",
+            "F4": "K_1e",
+            "F5": "K_1f",
+            "F6": "K_1g",
+            "F7": "K_1h",
+            "F8": "K_1i",
+            "F9": "K_1j",
+            "F10": "K_1k",
+            "F11": "K_1l",
+            "F12": "K_1m",
+
+            "Insert": "K_2p",
+
+
+            "Backquote": "K_2a",
+            "Digit1": "K_2b",
+            "Digit2": "K_2c",
+            "Digit3": "K_2d",
+            "Digit4": "K_2e",
+            "Digit5": "K_2f",
+            "Digit6": "K_2g",
+            "Digit7": "K_2h",
+            "Digit8": "K_2i",
+            "Digit9": "K_2j",
+            "Digit0": "K_2k",
+            "Minus": "K_2l",
+            "Equal": "K_2m",
+            "Backspace": "K_2no",
+
+            "Tab": "K_3a",
+            "KeyQ": "K_3b",
+            "KeyW": "K_3c",
+            "KeyE": "K_3d",
+            "KeyR": "K_3e",
+            "KeyT": "K_3f",
+            "KeyY": "K_3g",
+            "KeyU": "K_3h",
+            "KeyI": "K_3i",
+            "KeyO": "K_3j",
+            "KeyP": "K_3k",
+            "BracketLeft": "K_3l",
+            "BracketRight": "K_3m",
+            "Enter": "K_34no",
+            "CapsLock": "K_4a",
+            "KeyA": "K_4b",
+            "KeyS": "K_4c",
+            "KeyD": "K_4d",
+            "KeyF": "K_4e",
+            "KeyG": "K_4f",
+            "KeyH": "K_4g",
+            "KeyJ": "K_4h",
+            "KeyK": "K_4i",
+            "KeyL": "K_4j",
+            "Semicolon": "K_4k",
+            "Quote": "K_4l",
+            "Backslash": "K_4m",
+
+            "ShiftLeft": "K_5a",
+            "IntlBackslash": "K_5b",
+            "KeyZ": "K_5c",
+            "KeyX": "K_5d",
+            "KeyC": "K_5e",
+            "KeyV": "K_5f",
+            "KeyB": "K_5g",
+            "KeyN": "K_5h",
+            "KeyM": "K_5i",
+            "Comma": "K_5j",
+            "Period": "K_5k",
+            "Slash": "K_5l",
+            "ShiftRight": "K_5m",
+
+            "ControlLeft": "K_6a",
+            "AltLeft": "K_6c",
+            "Space": "K_6d",
+            "AltRight": "K_6k",
+            "ContextMenu": "K_6m",
+            "ControlRight": "K_6n",
+
+            "ArrowLeft": "K_6p",
+            "ArrowRight": "K_6r",
+            "ArrowDown": "K_6q",
+            "ArrowUp": "K_5q",
+
+            "Delete": "K_3p",
+            "End": "K_3q",
+            "Home": "K_2q",
+            "PageDown": "K_3r",
+            "PageUp": "K_2r",
+
+            "Pause": "K_1r",
+
+            "NumLock": "K_n1a",
+            "NumpadDivide": "K_n1b",
+            "NumpadMultiply": "K_n1c",
+            "NumpadSubtract": "K_n1d",
+            "Numpad7": "K_n2a",
+            "Numpad8": "K_n2b",
+            "Numpad9": "K_n2c",
+            "NumpadAdd": "K_n2d",
+            "Numpad4": "K_n3a",
+            "Numpad5": "K_n3b",
+            "Numpad6": "K_n3c",
+            "Numpad1": "K_n4a",
+            "Numpad2": "K_n4b",
+            "Numpad3": "K_n4c",
+            "NumpadEnter": "K_n45d",
+            "Numpad0": "K_n5a",
+            "NumpadDecimal": "K_n5c"
+        };
+
+
+        var onStyle = "fill:#f0f";
+        var offStyle = "fill:#000";
+
+        function lightOn(e) {
+            console.log(e);
+            if (keyb[e]) {
+                var svgObject = document.getElementById('svg-keyboard').contentDocument;
+                svgObject.getElementById(keyb[e]).setAttribute("style", onStyle);
+
+                if (e == "ContextMenu") {
+                    setInterval(() => { lightOff(e) }, 2000);
+                }
+            }
+        }
+        function lightOff(e) {
+            if (keyb[e]) {
+                var svgObject = document.getElementById('svg-keyboard').contentDocument;
+                svgObject.getElementById(keyb[e]).setAttribute("style", offStyle);
+            }
+        }
+
+        function setButtonStyle(num, style) {
+            var svgObject = document.getElementById('svg-mouse').contentDocument;
+            svgObject.getElementById("button" + num).setAttribute("style", style);
+        }
+
+        function clear(){
+            for(var key in keyb) {
+                lightOff(key);
+                setButtonStyle(0,offStyle);
+                setButtonStyle(1,offStyle);
+                setButtonStyle(2,offStyle);
+            };
+        }
+        function createChckbx(parent,txt,variable){
+            var d = $("<div id="+variable+" class='chkbx'>"+txt+"</div>");
+            parent.append(d);
+            d.on("click",() => {
+                window[variable] = ! window[variable];
+                updateVarDisplay(variable);
+            });
+            updateVarDisplay(variable);
+            return d;
+        }
+        function updateVarDisplay(v){
+            $("#"+v).removeClass("chkbx-on").removeClass("chkbx-off").addClass(window[v] ? "chkbx-on" : "chkbx-off");
+        }
+
+        
+
+        var bPrevent = false;
+        var bHoldKeys = true ;
+        var bNoRepeat = true ;
+        $(document).ready(() => {
+
+            $("#myInput").bind("contextmenu", function (e) {
+                return false;
+            });
+
+            $("#myInput").on("keydown", (e) => {
+                if (bPrevent || (e.originalEvent.repeat && bNoRepeat)) e.preventDefault();
+                lightOn(e.originalEvent.code);
+                console.log(e);
+            });
+            $("#myInput").on("keyup", (e) => {
+                if (bPrevent || (e.originalEvent.repeat && bNoRepeat)) e.preventDefault();
+                if (!bHoldKeys) lightOff(e.originalEvent.code);
+            });
+            $("#myInput").on("mousedown", (e) => {
+                setButtonStyle(e.originalEvent.button, onStyle);
+            });
+            $("#myInput").on("mouseup", (e) => {
+                if (e.originalEvent.button == 1) e.preventDefault(); // avoid paste from mouse wheel
+                setButtonStyle(e.originalEvent.button, offStyle);
+            });
+
+
+            var cp = $("#ctrlpanel");
+            cp.append("<a class='chkbx' href='javascript:clear();'>Reset</a>");
+
+            createChckbx(cp,"Prevent default","bPrevent")
+            createChckbx(cp,"Hold keys","bHoldKeys")
+            createChckbx(cp,"No repeat","bNoRepeat")
+            
+        });
+
+    </script>
+</body>
+
+</html>

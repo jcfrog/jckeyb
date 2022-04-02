@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42.033611mm"
+   height="64.619148mm"
+   viewBox="0 0 42.033611 64.619148"
+   version="1.1"
+   id="svg41433"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="mouse.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41435"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.877186"
+     inkscape:cx="-23.43934"
+     inkscape:cy="154.75291"
+     inkscape:window-width="1862"
+     inkscape:window-height="1016"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs41430" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-59.22429,-81.141815)">
+    <path
+       id="body"
+       style="fill:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.996125;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 76.381019,81.141991 h 7.720075 c 9.504778,0 17.156636,7.651861 17.156636,17.156639 v 30.30569 c 0,9.50477 -7.651858,17.15664 -17.156636,17.15664 h -7.720075 c -9.504778,0 -17.156639,-7.65187 -17.156639,-17.15664 V 98.29863 c 0,-9.504778 7.651861,-17.156639 17.156639,-17.156639 z"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="button0"
+       style="fill:#000000;stroke-width:11.3386;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.996125;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 288.68359,306.67773 c -35.92357,0 -64.84375,28.92018 -64.84375,64.84375 v 47.13868 h 78.49805 v -22 c -7.38219,-0.47989 -14.2844,-6.40276 -15.0293,-14 -0.35905,-12.82455 -0.0489,-25.68255 -0.15234,-38.51954 -0.70456,-8.43822 6.09681,-16.57667 14.57813,-17.18164 0.2014,-0.0223 0.40253,-0.0387 0.60351,-0.0527 v -20.22852 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ssccccccccs" />
+    <path
+       id="button2"
+       style="fill:#000000;stroke-width:11.3386;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.996125;paint-order:fill markers stroke;stop-color:#000000"
+       d="m 304.20703,306.67773 v 20.21485 c 7.48574,0.41592 14.18013,6.38399 15.0332,13.99023 0.35838,12.57268 0.0491,25.17864 0.15235,37.76367 0.80917,7.73194 -4.36177,15.6824 -12.03906,17.4629 -1.03816,0.30903 -2.09216,0.48508 -3.14649,0.55078 v 22 h 78.5 v -47.13868 c 0,-35.92357 -28.92018,-64.84375 -64.84375,-64.84375 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="ccccccccssc" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.996125;-inkscape-stroke:none;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="button1"
+       width="7.4691129"
+       height="17.399601"
+       x="76.5065"
+       y="87.018631"
+       ry="3.7345564" />
+  </g>
+</svg>

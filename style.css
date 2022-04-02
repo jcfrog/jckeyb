@@ -1,0 +1,31 @@
+.chkbx{
+    display: inline-block;
+    border-radius: 3px;
+    background-color: #6495ed;
+    margin: 0 5px;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+}
+a.chkbx{
+    text-decoration: none;
+}
+.chkbx-off{
+    background-color: #bdbdbe;
+}
+
+.chkbx-off::before , .chkbx-on::before{
+    content: "";
+    width : 20px;
+    height : 20px;
+    display: inline-block;
+    background-size: contain;
+    vertical-align: bottom;
+    margin-right: 3px;
+}
+.chkbx-on::before{
+    background-image: url(i/chkon.svg);
+}
+.chkbx-off::before{
+    background-image: url(i/chkoff.svg);
+}

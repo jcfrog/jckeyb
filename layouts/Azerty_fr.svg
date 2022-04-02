@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="785.88342" height="361.09412" viewBox="0 0 786.86455 362.06219" id="svg2" xml:space="preserve" sodipodi:version="0.32" inkscape:version="0.48.0 r9654" sodipodi:docname="Azerty_fr v3 b.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" style="display:inline"><metadata id="metadata316"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:title/></cc:Work></rdf:RDF></metadata><sodipodi:namedview inkscape:window-height="1019" inkscape:window-width="1679" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" showguides="true" inkscape:guide-bbox="true" inkscape:zoom="1.9544884" inkscape:cx="392.94171" inkscape:cy="180.54706" inkscape:current-layer="g_other" inkscape:window-x="0" inkscape:window-y="1" showgrid="true" inkscape:window-maximized="1" inkscape:snap-bbox="true" inkscape:bbox-nodes="false" inkscape:snap-nodes="false" inkscape:snap-grids="true" inkscape:bbox-paths="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" units="px" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="false" inkscape:snap-global="true">
+      </sodipodi:namedview>
+     <defs id="defs4">
+     <marker inkscape:stockid="TriangleOutM" orient="auto" refY="0.0" refX="0.0" id="TriangleOutM" style="overflow:visible">
+       <path id="path4356" d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z " style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt;marker-start:none" transform="scale(0.4)"/></marker>
+<!--         style="fill-rule:evenodd;stroke:black;stroke-width:1.0pt;marker-start:none"-->
+     <marker inkscape:stockid="TrglOutM_grey" orient="auto" refY="0.0" refX="0.0" id="TrglOutM_grey" style="overflow:visible">
+       <path id="path4356" d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z " style="fill:dimgrey;stroke:dimgrey;stroke-width:1.0pt;marker-start:none" transform="scale(0.4)"/></marker>
+<style id="style6" type="text/css">
+<!--               Styles de TEXTE   :   T_ : text ; C_ : color | _S : small ; _s : smaller ; _M : medium   -->
+<!--                                     C_K_Lstd : standart letter keys color -->
+
+<!--               Styles de DESSIN  :   F_ : fill ; C_ : color -->
+       <![CDATA[
+      .T_start   { text-align:start;text-anchor:start;writing-mode:lr-tb;font-family:Bitstream Vera Sans, Nimbus Sans L, FreeSans, sans-serif }
+      .T_center  { text-align:center;text-anchor:middle;writing-mode:lr-tb;font-family:Bitstream Vera Sans, Nimbus Sans L, FreeSans, sans-serif }
+
+      .T_legend  { font-size:11px;font-style:italic;text-align:start;text-anchor:start;writing-mode:lr-tb;fill:black;font-family:Bitstream Vera Sans, Nimbus Sans L, FreeSans, sans-serif }
+
+      .T_size_s  { font-size:7px  }
+      .T_size_m  { font-size:8px  }
+      .T_size_M  { font-size:9px  }
+      .T_size_L  { font-size:10px }
+
+      .T_bold    { font-weight:bold }
+
+      .C_black   { fill:black     ;fill-opacity:1   ;stroke:none;}
+      .C_grey    { fill:dimgrey   ;fill-opacity:1   ;stroke:none;}
+
+      .C_K_Lstd  { fill:#BFEFEA    ;}
+      .C_K_Spec  { fill:#68F2E4    ;}
+      .C_K_Ponct { fill:turquoise  ;}
+      .C_K_Modif { fill:#FDB531    ;}
+      .C_K_Num   { fill:#D2ACD2    ;}
+      .C_K_Funct { fill:#E3AE89    ;}
+      .C_K_Deplt { fill:chartreuse ;}
+      .C_K_Enter { fill:yellow     ;stroke:grey;stroke-width:0.3;}
+      .C_K_Esc   { fill:violet     ;}
+      .C_K_Tab   { fill:gold       ;}
+      .C_K_Del   { fill:red        ;}
+      .C_K_Ins   { fill:#A5CA85    ;}
+      .C_K_Short { fill:khaki      ;stroke:grey;stroke-width:0.3;}
+      .C_K_Win   { fill:#F2AFAF    ;}
+      .C_K_Menu  { fill:thistle    ;}
+      .C_K_Other { fill:#DDDDDD    ;stroke:black;stroke-width:0.3;}
+       ]]>
+       </style></defs>
+<!-- ========  Keyboard background ======== -->
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Fond clavier" style="display:inline" sodipodi:insensitive="true">
+     <rect id="rect4919" x="20" y="9.3" width="742" height="196" rx="10" ry="10" style="fill:whitesmoke;fill-opacity:1;fill-rule:nonzero;stroke:silver"/></g>
+<!-- ========     Keys      ======== -->
+<g id="layer2" inkscape:groupmode="layer" inkscape:label="Touches" style="display:inline">
+<!-- Standard letters keys -->
+    <g id="g_std" class="C_K_Lstd">
+       <rect id="L_Lstd" x="30" y="234" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3b" x="89" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3c" x="119" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3d" x="149" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3e" x="179" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3f" x="209" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3h" x="269" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3g" x="239" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3i" x="299" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3j" x="329" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3k" x="359" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4b" x="95" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4c" x="125" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4d" x="155" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4e" x="185" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4f" x="215" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4g" x="245" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4h" x="275" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4i" x="305" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4j" x="335" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4k" x="365" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5c" x="110" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5d" x="140" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5e" x="170" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5f" x="200" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5g" x="230" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5h" x="260" y="142" width="26" height="24" rx="3" ry="3"/></g>
+<!-- keys Caractères spéciaux -->
+    <g id="g_spec" class="C_K_Spec">
+       <rect id="L_spec" x="30" y="266" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2a" x="40" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2b" x="70" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2c" x="100" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2d" x="130" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2e" x="160" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2f" x="190" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2g" x="220" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2h" x="250" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2i" x="280" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2j" x="310" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2k" x="340" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2l" x="370" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2m" x="400" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3l" x="389" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3m" x="419" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4l" x="395" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_4m" x="425" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5b" x="80" y="142" width="26" height="24" rx="3" ry="3"/></g>
+<!-- keys Ponctuation -->
+    <g id="g_ponct" class="C_K_Ponct">
+       <rect id="L_pct" x="30" y="299" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5i" x="290" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5j" x="320" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5k" x="350" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5l" x="380" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6d" x="145" y="168" width="206" height="24" rx="3" ry="3"/></g>
+<!-- Num keys -->
+    <g id="g_num" class="C_K_Num">
+       <rect id="L_num" x="30" y="332" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n1a" x="626" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n1b" x="656" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n1c" x="686" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n1d" x="716" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n2a" x="626" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n2b" x="656" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n2c" x="686" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n2d" x="716" y="90" width="26" height="50" rx="3" ry="3"/>
+       <rect id="K_n3a" x="626" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n3b" x="656" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n3c" x="686" y="116" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n4a" x="626" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n4b" x="656" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n4c" x="686" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_n5a" x="626" y="168" width="55" height="24" rx="3" ry="3"/>
+       <rect id="K_n5c" x="686" y="168" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Enter keys -->
+    <g id="g_ent" class="C_K_Enter">
+       <rect id="L_ent" x="200" y="234" width="26" height="24" rx="3" ry="3"/>
+       <path sodipodi:nodetypes="ssssssssccss" id="K_34no" d="M 453.6867,90.219039 C 451.9867,90.219039 450.5867,91.619039 450.5867,93.419039 L 450.5867,110.91903 C 450.5867,112.81903 451.9867,114.21903 453.6867,114.21903 454.7867,114.21903 454.9867,115.31903 454.9867,117.41903 L 454.9867,137.01903 C 454.9867,138.71903 456.3867,140.21903 458.1867,140.21903 L 482.1867,140.21903 C 483.9867,140.21903 485.3867,138.71903 485.3867,137.01903 L 485.4867,93.419039 C 485.4867,91.619039 484.0867,90.219039 482.2867,90.219039 z"/>
+       <rect id="K_n45d" x="716" y="142" width="26" height="50" rx="3" ry="3"/></g>
+<!-- Delete keys -->
+    <g id="g_del" class="C_K_Del">
+       <rect id="L_del" x="200" y="266" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2no" x="430" y="64" width="56" height="24" rx="3" ry="3"/>
+       <rect id="K_3p" x="516" y="90" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Modification keys -->
+    <g id="g_mod" class="C_K_Modif">
+       <rect id="L_mod" x="200" y="299" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5a" x="40" y="142" width="35" height="24" rx="3" ry="3"/>
+       <rect id="K_4a" x="40" y="116" width="50" height="24" rx="3" ry="3"/>
+       <rect id="K_5m" x="410" y="142" width="75" height="24" rx="3" ry="3"/>
+       <rect id="K_6k" x="355" y="168" width="30" height="24" rx="3" ry="3"/></g>
+<!-- Deplacement keys -->
+    <g id="g_depl" class="C_K_Deplt">
+       <rect id="L_dpl" x="200" y="332" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2q" x="546" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2r" x="576" y="64" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3q" x="546" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3r" x="576" y="90" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_5q" x="546" y="142" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6p" x="516" y="168" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6q" x="546" y="168" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6r" x="576" y="168" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Escape keys -->
+    <g id="g_esc" class="C_K_Esc">
+       <rect id="L_esc" x="390" y="234" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1a" x="40" y="24" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Function keys -->
+    <g id="g_fonct" class="C_K_Funct">
+       <rect id="L_fct" x="390" y="266" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1b" x="100" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1c" x="130" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1d" x="160" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1e" x="190" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1f" x="235" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1g" x="265" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1h" x="295" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1i" x="325" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1j" x="370" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1k" x="400" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1l" x="430" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1m" x="460" y="25" width="26" height="24" rx="3" ry="3"/></g>
+<!-- keys for Shortcut -->
+    <g id="g_short" class="C_K_Short">
+       <rect id="L_short" x="390" y="299" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6a" x="40" y="168" width="35" height="24" rx="3" ry="3"/>
+       <rect id="K_6c" x="110" y="168" height="24" width="30" rx="3" ry="3"/>
+       <rect id="K_6n" x="450" y="168" height="24" width="35" rx="3" ry="3"/></g>
+<!-- Tabulation keys -->
+    <g id="g_tab" class="C_K_Tab">
+       <rect id="L_tab" x="390" y="332" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_3a" x="40" y="90" width="45" height="24" rx="3" ry="3"/></g>
+<!-- Windows keys -->
+    <g id="g_win" class="C_K_Win">
+       <rect id="L_win" x="571" y="234" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6b" x="80" y="168" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6l" x="390" y="168" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Menu key -->
+    <g id="g_menu" class="C_K_Menu">
+       <rect id="L_menu" x="571" y="266" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_6m" x="420" y="168" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Insertion keys -->
+    <g id="g_ins" class="C_K_Ins">
+       <rect id="L_ins" x="571" y="299" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_2p" x="516" y="64" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Others keys -->
+    <g id="g_other" class="C_K_Other">
+       <rect id="L_others" x="571" y="330" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1p" x="516" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1q" x="546" y="25" width="26" height="24" rx="3" ry="3"/>
+       <rect id="K_1r" x="576" y="25" width="26" height="24" rx="3" ry="3"/></g>
+<!-- Others keys lines (help to see)-->
+    <path id="line1" style="fill:none;stroke:gray;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0" inkscape:connector-curvature="0" d="M 516,40 542,40"/>
+    <path id="line2" style="fill:none;stroke:gray;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0" inkscape:connector-curvature="0" d="M 576,37 602,37"/>
+<!-- Leds -->
+    <g id="g_leds">
+       <circle id="led_vnum" style="fill:chartreuse;stroke:none" cx="649" cy="23" r="3.5" sodipodi:cx="649" sodipodi:cy="23" sodipodi:rx="3.5" sodipodi:ry="3.5"/>
+       <circle id="led_vmaj" style="fill:darkgreen;stroke:none" cx="689" cy="23" r="3.5" sodipodi:cx="689" sodipodi:cy="23" sodipodi:rx="3.5" sodipodi:ry="3.5"/>
+       <circle id="led_vdefil" style="fill:darkgreen;stroke:none" cx="729" cy="23" r="3.5" sodipodi:cx="729" sodipodi:cy="23" sodipodi:rx="3.5" sodipodi:ry="3.5"/>
+    </g>
+  </g>
+<!-- ========     Key signs    ======== -->
+<g id="layer3" inkscape:groupmode="layer" inkscape:label="Inscriptions dessins" style="display:inline" sodipodi:insensitive="true">
+<!-- Windows keys -->
+  <g id="I_kwin1">
+    <g id="I_kwin1lg">
+      <path id="I_kwin1lg1" style="fill:#4e4e4e;fill-opacity:1;stroke:none" d="M 85.9,179 C 87.5,178.4 89.2,178.5 90.9,179.1 L 92.2,175.6 C 90.6,175 89,174.7 87.2,175.5 L 85.9,179 z" sodipodi:nodetypes="ccccc"/>
+      <path id="I_kwin1lg2" style="fill:#6e6e6e;fill-opacity:1;stroke:none" d="M 92.6,175.7 C 94.9,176.5 96.55,176.2 97.7,175.9 L 96.4,179.3 C 94.1,180.2 92.7,179.6 91.3,179.3 L 92.6,175.7 z" sodipodi:nodetypes="ccccc"/>
+      <path id="I_kwin1lg3" style="fill:#858585;fill-opacity:1;stroke:none" d="M 91.2,179.6 C 92.7,180.1 94.3,180.4 96.3,179.7 L 94.7,183.6 C 92.8,184.3 91.3,184.1 89.7,183.5 L 91.2,179.6 z" sodipodi:nodetypes="ccccc"/>
+      <path id="I_kwin1lg4" style="fill:#444;fill-opacity:1;stroke:none" d="M 84.3,183.3 C 85.9,182.6 87.6,182.8 89.3,183.4 L 90.8,179.4 C 90,179.2 88.5,178.6 85.7,179.4 L 84.3,183.3 z" sodipodi:nodetypes="ccccc"/>
+   </g>
+   <text id="I_kwin1tm" x="96" y="186" class="T_start T_size_s C_black">™</text>
+</g>
+<g id="I_kwin2">
+  <g id="I_kwin2lg">
+    <path id="I_kwin2lg1" style="fill:#4e4e4e;fill-opacity:1;stroke:none" d="M 396.7311,179 C 398.3311,178.4 400.0311,178.5 401.7311,179.1 L 403.0311,175.6 C 401.4311,175 399.8311,174.7 398.0311,175.5 L 396.7311,179 z" sodipodi:nodetypes="ccccc"/>
+    <path id="I_kwin2lg2" style="fill:#6e6e6e;fill-opacity:1;stroke:none" d="M 403.4311,175.7 C 405.7311,176.5 407.3811,176.2 408.5311,175.9 L 407.2311,179.3 C 404.9311,180.2 403.5311,179.6 402.1311,179.3 L 403.4311,175.7 z" sodipodi:nodetypes="ccccc"/>
+    <path id="I_kwin2lg3" style="fill:#858585;fill-opacity:1;stroke:none" d="M 402.0311,179.6 C 403.5311,180.1 405.1311,180.4 407.1311,179.7 L 405.5311,183.6 C 403.6311,184.3 402.1311,184.1 400.5311,183.5 L 402.0311,179.6 z" sodipodi:nodetypes="ccccc"/>
+    <path id="I_kwin2lg4" style="fill:#444;fill-opacity:1;stroke:none" d="M 395.1311,183.3 C 396.7311,182.6 398.4311,182.8 400.1311,183.4 L 401.6311,179.4 C 400.8311,179.2 399.3311,178.6 396.5311,179.4 L 395.1311,183.3 z" sodipodi:nodetypes="ccccc"/>
+    </g>
+    <text id="I_kwin2tm" x="406" y="186" class="T_start T_size_s C_black">™</text>
+  </g>
+<!--   Menu key     -->
+    <g id="I_menu">
+       <rect id="rect3554" x="429.25406" y="175.78014" width="7.8499441" height="8.6052876" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.4"/>
+       <rect id="rect3560" x="429.46915" y="176.77782" width="7.4457922" height="0.70459801" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.8"/>
+       <rect id="rect3562" x="430.78992" y="179.09204" width="4.9107895" height="0.28221372" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.4"/>
+       <rect id="rect3558" x="430.436" y="176.72598" width="5.6272464" height="0.819556" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.4"/>
+       <rect id="rect3658" x="430.79541" y="180.92955" width="4.9107895" height="0.28221372" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.4"/>
+       <rect id="rect3660" x="430.79541" y="182.8528" width="4.9107895" height="0.28221372" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.4"/>
+       <rect id="rect3698" x="429.45609" y="174.75465" width="7.4457922" height="0.70459801" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.8"/>
+       <path id="I_m_arrow" sodipodi:nodetypes="cccccccc" d="M 438.2652,184.00457 439.34605,182.92496 441.29867,184.89168 442.21506,183.97635 440.25955,182.00675 441.38866,180.8789 435.80332,178.49146 438.2652,184.00457 z" style="fill:#d2cfcf;stroke:#131516;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:round"/>
+    </g>
+<!--    Arrows        -->
+    <g id="I_Arrows_black" style="fill:none;stroke:black;marker-end:url(#TriangleOutM)">
+       <path id="A_backsp" d="M 452,76 441,76" style="stroke-width:1" sodipodi:nodetypes="cc"/>
+       <path id="A_up1" d="M 559,160 559,152" style="stroke-width:0.7" sodipodi:nodetypes="cc"/>
+       <path id="A_down1" d="M 559,177 559,185" style="stroke-width:0.7" sodipodi:nodetypes="cc"/>
+       <path id="A_left1" d="M 533,180 525,180" style="stroke-width:0.7" sodipodi:nodetypes="cc"/>
+       <path id="A_right1" d="M 584,180 592,180" style="stroke-width:0.7" sodipodi:nodetypes="cc"/>
+    </g>
+
+    <g id="I_Arrows_grey" style="fill:none;stroke:dimgrey;stroke-width:0.7;marker-end:url(#TrglOutM_grey)">
+       <path id="A_up2" d="M 662.5,112 662.5,104" sodipodi:nodetypes="cc"/>
+       <path id="A_down2" d="M 662.5,155 662.5,163" sodipodi:nodetypes="cc"/>
+       <path id="A_left2" d="M 638,133 630,133" sodipodi:nodetypes="cc"/>
+       <path id="A_right2" d="M 688,133 696,133" sodipodi:nodetypes="cc"/>
+    </g>
+<!-- ========     Alternates signs    ======== -->
+<g id="layer6" inkscape:groupmode="layer" inkscape:label="signes alternatifs" sodipodi:insensitive="true" style="display:inline">
+<!--   Tabulations  -->
+    <g id="A_tab" style="fill:none;stroke:black;stroke-width:0.7">
+       <path id="A_lt_a" d="M 57,98.5 47,98.5" style="marker-end:url(#TriangleOutM)"/>
+       <path id="A_lt_b" d="M 45,95 45,102"/>
+       <path id="A_rt_a" d="M 45,106.5 55,106.5" style="marker-end:url(#TriangleOutM)"/>
+        <path id="A_rt_b" d="M 57,103 57,110"/>
+<!--   Maj  -->
+       <path id="A_maj1" style="fill:none;stroke:black" d="M 49,149 45,153 47,153 47,158 51,158 51,153 53,153 z"/>
+       <path id="A_maj2" style="fill:none;stroke:black" d="M 425,149 421,153 423,153 423,158 427,158 427,153 429,153 z"/>
+<!--   Enter  -->
+       <path id="A_Ent1" style="fill:none;stroke:black;stroke-width:0.9;marker-end:url(#TriangleOutM)" d="M 474,123 474,127 465,127"/>
+       <path id="A_Ent2" style="fill:none;stroke:black;stroke-width:0.9;marker-end:url(#TriangleOutM)" d="M 733,176 733,180 724,180"/>
+       </g>
+<!--   Majlock  -->
+       <g id="Majlock" style="fill:none;stroke:black;stroke-width:0.9">
+         <rect id="rect3550" x="45.7" y="128" width="9.6" height="7.3" rx="0.3" ry="0.3"/>
+         <path id="path3515" sodipodi:nodetypes="ccc" d="M 46.723311,128.11426 54.460589,128.11426 C 54.460589,121.8278 46.834041,121.84004 46.723311,128.11426 z"/>
+         <path id="path3552" sodipodi:nodetypes="ccc" d="M 48.061782,127.86086 53.202412,127.86086 C 53.202412,123.94028 48.1387,123.90213 48.061782,127.86086 z"/>
+         <ellipse id="3565" cx="50.5" cy="131.5" rx="0.6" ry="1.6" sodipodi:cx="50.5" sodipodi:cy="131.5" sodipodi:rx="0.6" sodipodi:ry="1.6"/>
+       </g>
+<!--   Direction Pad -->
+    <g id="A_dir1" style="fill:none;stroke:black;stroke-width:0.8">
+        <path id="A_home1" d="M 558,78 552,72" style="marker-end:url(#TriangleOutM)" sodipodi:nodetypes="cc"/>
+        <path id="A_pup1a" d="M 584,79 584,71" style="marker-end:url(#TriangleOutM)" sodipodi:nodetypes="cc"/>
+        <path id="A_pup1b" d="M 582.1,74 585.9,74 M 582.1,75.5 585.9,75.5 M 582.1,77 585.9,77"/>
+        <path id="A_pdn1a" d="M 584,100 584,108" style="marker-end:url(#TriangleOutM)" sodipodi:nodetypes="cc"/>
+        <path id="A_pdn1b" d="M 582.1,102 585.9,102 M 582.1,103.5 585.9,103.5 M 582.1,105 585.9,105"/>
+       </g>
+<!--   Numpad-->
+       <g id="A_dir2" style="fill:none;stroke:dimgrey;stroke-width:0.8">
+        <path id="A_home2" d="M 636,111 630,105" style="marker-end:url(#TrglOutM_grey)" sodipodi:nodetypes="cc"/>
+        <path id="A_pup2a" d="M 692.5,112 692.5,104" style="marker-end:url(#TrglOutM_grey)" sodipodi:nodetypes="cc"/>
+        <path id="A_pup2b" d="M 690.6,107 694.4,107 M 690.6,108.5 694.4,108.5 M 690.6,110 694.4,110"/>
+        <path id="A_pdn2a" d="M 692.5,154 692.5,162" style="marker-end:url(#TrglOutM_grey)" sodipodi:nodetypes="cc"/>
+        <path id="A_pdn2b" d="M 690.6,156 694.4,156 M 690.6,157.5 694.4,157.5 M 690.6,159 694.4,159"/>
+       </g>
+    </g>
+  </g>
+<!-- ========     Inscriptions layer    ======== -->
+<g id="layer4" inkscape:groupmode="layer" inkscape:label="incriptions" style="display:inline" sodipodi:insensitive="true">
+  <g id="T_fonct" class="T_center T_size_L">
+    <text id="T_kb1b" y="41" x="112">F1</text>
+    <text id="T_kb1c" y="41" x="142">F2</text>
+    <text id="T_kb1d" y="41" x="172">F3</text>
+    <text id="T_kb1e" y="41" x="202">F4</text>
+    <text id="T_kb1f" y="41" x="248">F5</text>
+    <text id="T_kb1g" y="41" x="278">F6</text>
+    <text id="T_kb1h" y="41" x="308">F7</text>
+    <text id="T_kb1i" y="41" x="338">F8</text>
+    <text id="T_kb1j" y="41" x="383">F9</text>
+    <text id="T_kb1k" y="41" x="413">F10</text>
+    <text id="T_kb1l" y="41" x="443">F11</text>
+    <text id="T_kb1m" y="41" x="473">F12</text>
+  </g>
+  <g id="T_cmde_1" class="T_center T_size_s">
+    <text id="T_kb1a" y="38" x="53">Echap</text>
+    <text id="T_kb1n11" y="31" x="529">Impr</text>
+    <text id="T_kb1n12" y="38" x="529">écran</text>
+    <text id="T_kb1n2" y="47" x="529">Syst</text>
+    <text id="T_kb1o11" y="34" x="559">Arrêt</text>
+    <text id="T_kb1o12" y="44" x="559">Défil</text>
+    <text id="T_kb1p1" y="33" x="589">Pause</text>
+    <text id="T_kb1p2" y="46" x="589">Attn</text>
+    <text id="T_leda1" y="40" x="648">Verr</text>
+    <text id="T_leda2" y="49" x="648">Num</text>
+    <text id="T_ledb1" y="40" x="688">Verr</text>
+    <text id="T_ledb2" y="49" x="688">Maj</text>
+    <text id="T_ledc1" y="40" x="728">Verr</text>
+    <text id="T_ledc2" y="49" x="728">Défil</text>
+  </g>
+  <g id="T_cmde_2" class="T_start T_size_s">
+    <text id="T_kb2n" y="78" x="519">Inser</text>
+    <text id="T_kb3n" y="105" x="519">Suppr</text>
+    <text id="T_kb3o" y="105" x="550">Fin</text>
+    <text id="T_nk1a1" y="74" x="630">Verr</text>
+    <text id="T_nk1a2" y="83" x="630">Num</text>
+  </g>
+  <g id="g_numkey" class="T_start T_size_m">
+    <text id="T_nk1b" y="76" x="660">/</text>
+    <text id="T_nk1c" y="75" x="690">*</text>
+    <text id="T_nk1d" y="71" x="720">_</text>
+    <text id="T_nk21a" y="101" x="630">7</text>
+    <text id="T_nk21b" y="101" x="660">8</text>
+    <text id="T_nk21c" y="101" x="690">9</text>
+    <text id="T_nk21d" y="101" x="720">+</text>
+    <text id="T_nk31a" y="127" x="630">4</text>
+    <text id="T_nk31b" y="127" x="660">5</text>
+    <text id="T_nk31c" y="127" x="690">6</text>
+    <text id="T_nk41a" y="153" x="630">1</text>
+    <text id="T_nk41b" y="153" x="660">2</text>
+    <text id="T_nk41c" y="153" x="690">3</text>
+    <text id="T_nk51a" y="179" x="630">0</text>
+    <text id="T_nk51c" y="175" x="690">.</text>
+
+    <text id="T_kb1m1" y="74" x="374">°</text>
+    <text id="T_kb1n1" y="74" x="403">+</text>
+    <text id="T_kb2a2" y="84" x="44">²</text>
+    <text id="T_kb2b2" y="84" x="74">&amp;</text>
+    <text id="T_kb2c2" y="84" x="104">é   ~</text>
+    <text id="T_kb2d2" y="85" x="134">"   #</text>
+    <text id="T_kb2e2" y="84" x="165">'    {</text>
+    <text id="T_kb2f2" y="84" x="194">(    [</text>
+    <text id="T_kb2g2" y="84" x="224">-    |</text>
+    <text id="T_kb2h2" y="84" x="254">è    `</text>
+    <text id="T_kb2i2" y="84" x="284">_    \</text>
+    <text id="T_kb2j2" y="84" x="314">ç   ^</text>
+    <text id="T_kb2k2" y="84" x="344">à   @</text>
+    <text id="T_kb2l2" y="84" x="374">)    ]</text>
+    <text id="T_kb2m2" y="84" x="403">=   }</text>
+    <text id="T_kb3l1" y="102" x="395" class="T_size_M T_bold">¨</text>
+    <text id="T_kb3l2" y="113" x="394" class="T_size_M">^</text>
+    <text id="T_kb3m1" y="101" x="425">£</text>
+    <text id="T_kb3m2" y="111" x="425">$   ¤</text>
+    <text id="T_kb4l1" y="127" x="399">%</text>
+    <text id="T_kb4l2" y="137" x="400">ù</text>
+    <text id="T_kb4m1" y="126" x="430">µ</text>
+    <text id="T_kb4m2" y="137" x="430">*</text>
+    <text id="T_kb5b1" y="153" x="84">&gt;</text>
+    <text id="T_kb5b2" y="163" x="84">&lt;</text>
+    <text id="T_kb5i1" y="153" x="293">?</text>
+    <text id="T_kb5k1" y="153" x="354">/</text>
+    <text id="T_kb5l1" y="153" x="384">§</text>
+    <text id="T_kb5l2" y="164" x="385">!</text>
+    <text id="T_kb5j1" y="153" x="324" class="T_bold">.</text>
+    <text id="T_kb5i2" y="163" x="294" class="T_bold">,</text>
+    <text id="T_kb5j2" y="163" x="324" class="T_bold">;</text>
+    <text id="T_kb5k2" y="163" x="354" class="T_bold">:</text>
+  </g>
+  <g id="g_cmde_3" class="T_start T_size_s C_grey">
+    <text id="T_nk4a2" y="164" x="630">Fin</text>
+    <text id="T_nk52a" y="190" x="630">Inser</text>
+    <text id="T_nk52c" y="190" x="690">Suppr</text>
+  </g>
+  <g id="g_kbnum" class="T_start T_size_M C_grey">
+    <text id="T_kb1b2" y="75" x="74">1</text>
+    <text id="T_kb1c2" y="75" x="104">2</text>
+    <text id="T_kb1d2" y="75" x="134">3</text>
+    <text id="T_kb1e2" y="75" x="164">4</text>
+    <text id="T_kb1f2" y="75" x="194">5</text>
+    <text id="T_kb1g2" y="75" x="224">6</text>
+    <text id="T_kb1h2" y="75" x="254">7</text>
+    <text id="T_kb1i2" y="75" x="284">8</text>
+    <text id="T_kb1k2" y="75" x="314">9</text>
+    <text id="T_kb1l2" y="75" x="344">0</text>
+  </g>
+  <g id="g_kblet" class="T_start T_size_L">
+    <text id="T_kb3b" y="103" x="94">A</text>
+    <text id="T_kb3c" y="103" x="124">Z</text>
+    <text id="T_kb3d" y="103" x="154">E</text>
+    <text id="T_kb3d2" y="111" x="167">€</text>
+    <text id="T_kb3e" y="103" x="184">R</text>
+    <text id="T_kb3f" y="103" x="214">T</text>
+    <text id="T_kb3g" y="103" x="244">Y</text>
+    <text id="T_kb3h" y="103" x="274">U</text>
+    <text id="T_kb3i" y="103" x="304">I</text>
+    <text id="T_kb3j" y="103" x="334">O</text>
+    <text id="T_kb3k" y="103" x="364">P</text>
+    <text id="T_kb4b" y="129" x="100">Q</text>
+    <text id="T_kb4c" y="129" x="130">S</text>
+    <text id="T_kb4d" y="129" x="160">D</text>
+    <text id="T_kb4e" y="129" x="190">F</text>
+    <text id="T_kb4f" y="129" x="220">G</text>
+    <text id="T_kb4g" y="129" x="250">H</text>
+    <text id="T_kb4h" y="129" x="280">J</text>
+    <text id="T_kb4i" y="129" x="310">K</text>
+    <text id="T_kb4j" y="129" x="340">L</text>
+    <text id="T_kb4k" y="129" x="370">M</text>
+    <text id="T_kb5c" y="155" x="114">W</text>
+    <text id="T_kb5d" y="155" x="144">X</text>
+    <text id="T_kb5e" y="155" x="174">C</text>
+    <text id="T_kb5f" y="155" x="204">V</text>
+    <text id="T_kb5g" y="155" x="234">B</text>
+    <text id="T_kb5h" y="155" x="264">N</text>
+  </g>
+  <g id="g_kbmod" class="T_start T_size_m">
+    <text id="T_kb6a" y="183" x="46">Ctrl</text>
+    <text id="T_kb6c" y="183" x="115">Alt</text>
+    <text id="T_kb6k" y="183" x="360">Alt Gr</text>
+    <text id="T_kb6n" y="183" x="458">Ctrl</text>
+  </g>
+  <g id="g_legend" class="T_legend">
+    <text id="leg_1a" y="249" x="64">Lettres standard</text>
+    <text id="leg_2a" y="282" x="64">Caractères spéciaux</text>
+    <text id="leg_3a" y="315" x="64">Ponctuation</text>
+    <text id="leg_4a" y="347" x="64">Pavé numérique</text>
+    <text id="leg_1b" y="249" x="234">Touches Entrée</text>
+    <text id="leg_2b" y="282" x="234">Touches de suppression</text>
+    <text id="leg_3b" y="315" x="234">Touches modificatrices</text>
+    <text id="leg_4b" y="347" x="234">Touches de déplacement</text>
+    <text id="leg_1c" y="249" x="424">Touche d'échappement</text>
+    <text id="leg_2c" y="282" x="424">Touches de fonction</text>
+    <text id="leg_3c" y="315" x="424">Touches pour raccourcis</text>
+    <text id="leg_4c" y="347" x="424">Touches tabulations</text>
+    <text id="leg_1d" y="249" x="604">Touches Windows</text>
+    <text id="leg_2d" y="282" x="604">Touche de menu contextuel</text>
+    <text id="leg_3d" y="315" x="604">Mode insertion ou ré-écriture</text>
+    <text id="leg_4d" y="347" x="604">autres</text>
+  </g>
+<!-- ========     alternates inscriptions    ======== -->
+  <g id="sublayer4a" inkscape:groupmode="layer" inkscape:label="inscriptions alternatives" style="display:none">
+    <g id="T_cmde_4" class="T_start T_size_s">
+      <text id="T_kb3a" y="104" x="45">Tab</text>
+      <text id="T_kb4a1" y="126" x="45">Verr</text>
+      <text id="T_kb4a2" y="135" x="45">Maj</text>
+      <text id="T_kb5a" y="156" x="45">Maj</text>
+      <text id="T_kb5m" y="156" x="458">Maj</text>
+      <text id="T_kb3n" y="104" x="458">Entrée</text>
+      <text id="T_kb3o" y="78" x="550">Début</text>
+      <text id="T_kb3p1" y="74" x="580">Page</text>
+      <text id="T_kb3p2" y="83" x="580">Haut</text>
+      <text id="T_kb4p1" y="100" x="580">Page</text>
+      <text id="T_kb4p2" y="109" x="580">Bas</text>
+      <text id="T_nk4d" y="153" x="720">Entr</text>
+    </g>
+    <g id="T_cmde_5" class="T_start T_size_s C_grey">
+      <text id="T_nk2a2" y="111" x="630">Début</text>
+      <text id="T_nk2c2" y="111" x="688">PgHaut</text>
+      <text id="T_nk4c2" y="164" x="688">PgBas</text>
+    </g>
+  </g>
+</g>
+</svg>
